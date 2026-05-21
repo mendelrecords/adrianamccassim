@@ -9,6 +9,8 @@ head {
 
 body {
   background-image: url(/Users/maxhimelhoch/Documents/GitHub/adrianamccassim/Untitled/bgimg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
  font-family: Arial, Helvetica, sans-serif;
  color: antiquewhite;
   text-align: center;
