@@ -1,20 +1,6 @@
 
-head {
-    a {
-      color: antiquewhite;
-    }
-  }
-
 
 body {background-color:rgb(16, 16, 68);
   @font-face {
     font-family: 'arial rounded'; 
-    src: url('/Users/maxhimelhoch/Documents/GitHub/adrianamccassim/Untitled/font1/arial_rounded_mt_regular-webfont.woff'); }
-color: antiquewhite;
-text-align: center;
-
-background-image: url(/Users/maxhimelhoch/Documents/GitHub/adrianamccassim/Untitled/bgimg.png);
-
-a {
-    color:antiquewhite}
-}
+    src: url('https://github.com/mendelrecords/adrianamccassim/blob/main/font1/arial_rounded_mt_regula
