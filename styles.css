@@ -4,10 +4,11 @@ body {background-color:rgb(16, 16, 68);
   @font-face {
     font-family: 'arial rounded'; 
     src: url('https://github.com/mendelrecords/adrianamccassim/blob/main/font1/arial_rounded_mt_regular-webfont.woff'); }
-color: antiquewhite;
-text-align: center;
+ 
+text-align: center
 
 background-image: url(https://github.com/mendelrecords/adrianamccassim/blob/main/bgimg.png);
 
-a { color:antiquewhite}
+a { 
+  color:antiquewhite}
 }
