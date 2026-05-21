@@ -11,4 +11,9 @@ body {
   background-image:url(bgimg.png);
   background-repeat: no-repeat;
   background-size: cover;
- font-family: Arial, He
+ font-family: Arial, Helvetica, sans-serif;
+ color: antiquewhite;
+  text-align: center;
+
+
+}
