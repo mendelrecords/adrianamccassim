@@ -13,4 +13,24 @@ head {
 
 body {
   text-align: center;
-  background-i
+  background-image:url(ambg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+ color: antiquewhite;
+  width: 50vw; /* Or use percentages like 50% or viewport units like 50vw */
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-right: 20%;
+  margin-left: 20%;
+  
+  .rubik-uniquifier {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+}
+
+
+
