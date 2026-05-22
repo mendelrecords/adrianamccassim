@@ -13,4 +13,19 @@ head {
 
 body {
   text-align: center;
-  background-i
+  background-image:url(ambg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+ font-family: Arial, Helvetica, sans-serif;
+ color: antiquewhite;
+  width: 50vw; /* Or use percentages like 50% or viewport units like 50vw */
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-right: 20%;
+  margin-left: 20%;
+  
+
+}
+
+
+
