@@ -1,3 +1,4 @@
+
 head {
   a {
     color: antiquewhite;
@@ -9,16 +10,13 @@ head {
   margin-right: 20%;
   margin-left: 20%;
 
-  .rubik-uniquifier {
-    font-family: "Rubik", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-  }
 }
+
+@import url(https://fonts.googleapis.com/css?family=Rubik);
 
 
 body {
+  font-family: 'Rubik',serif;
   text-align: center;
   background-image:url(ambg.png);
   background-repeat: no-repeat;
@@ -30,19 +28,9 @@ body {
   margin-right: 20%;
   margin-left: 20%;
   
-  .rubik-uniquifier {
-    font-family: "Rubik", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-  }
+
+  
 
 }
 
-.rubik-uniquifier {
-  font-family: "Rubik", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-}
 
